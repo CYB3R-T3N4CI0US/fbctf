@@ -44,33 +44,33 @@ $translations = array(
   'Cooperation' =>
     'Cooperation',
   'No cooperation between teams with independent accounts. Sharing of keys or providing revealing hints to other teams is cheating, don’t do it.' =>
-    'No cooperation between teams with independent accounts. Sharing of keys or providing revealing hints to other teams is cheating, don’t do it.',
+    'Here is no cooperation between other teams during CTF. Sharing Flags or providing hints to other teams is cheating.',
   'Attacking Scoreboard' =>
-    'Attacking Scoreboard',
+    'Attack',
   'No attacking the competition infrastructure. If bugs or vulns are found, please alert the competition organizers immediately.' =>
-    'No attacking the competition infrastructure. If bugs or vulns are found, please alert the competition organizers immediately.',
+    'Do not attack the site. Also, if you find any bugs or vulnerabilities, notify the organizers of the competition immediately.',
   'Sabotage' =>
-    'Sabotage',
+    'BRUTEFORCING',
   'Absolutely no sabotaging of other competing teams, or in any way hindering their independent progress.' =>
-    'Absolutely no sabotaging of other competing teams, or in any way hindering their independent progress.',
+    'No brute forcing of challenge Flag against the scoring site.',
   'Bruteforcing' =>
-    'Bruteforcing',
+    'Flag Format',
   'No brute forcing of challenge flag/ keys against the scoring site.' =>
-    'No brute forcing of challenge flag/ keys against the scoring site.',
+    'Flag format is BCTF{[0-9a-zA-Z_-]+!?|}.',
   'Denial Of Service' =>
-    'Denial Of Service',
+    'END',
   'DoSing the CTF platform or any of the challenges is forbidden.' =>
-    'DoSing the CTF platform or any of the challenges is forbidden.',
+    'After the competition, you have to write-up and submit it to the 1st to 6th places.',
   'Legal' =>
-    'Legal',
+    'IDK',
   'Disclaimer' =>
-    'Disclaimer',
+    'Free Flag',
   'By participating in the contest, you agree to release Facebook and its employees, and the hosting organization from any and all liability, claims or actions of any kind whatsoever for injuries, damages or losses to persons and property which may be sustained in connection with the contest. You acknowledge and agree that Facebook et al is not responsible for technical, hardware or software failures, or other errors or problems which may occur in connection with the contest.' =>
-    'By participating in the contest, you agree to release Facebook and its employees, and the hosting organization from any and all liability, claims or actions of any kind whatsoever for injuries, damages or losses to persons and property which may be sustained in connection with the contest. You acknowledge and agree that Facebook et al is not responsible for technical, hardware or software failures, or other errors or problems which may occur in connection with the contest.',
+    'BCTF{Welc0M3_T3N4',
   'If you have any questions about what is or is not allowed, please ask an organizer.' =>
-    'If you have any questions about what is or is not allowed, please ask an organizer.',
+    'Q0kwVVNfQ1RGXzIwMjIhIX0=',
   'Have fun!' =>
-    'Have fun!',
+    'Happy Hacking!',
   'Name' =>
     'Name',
   'Email' =>
