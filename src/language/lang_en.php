@@ -66,9 +66,9 @@ $translations = array(
   'Disclaimer' =>
     'Free Flag',
   'By participating in the contest, you agree to release Facebook and its employees, and the hosting organization from any and all liability, claims or actions of any kind whatsoever for injuries, damages or losses to persons and property which may be sustained in connection with the contest. You acknowledge and agree that Facebook et al is not responsible for technical, hardware or software failures, or other errors or problems which may occur in connection with the contest.' =>
-    'BCTF{Welc0M3_T3N4CI0US_CTF!!}',
+    'By participating in the contest, you agree to release Facebook and its employees, and the hosting organization from any and all liability, claims or actions of any kind whatsoever for injuries, damages or losses to persons and property which may be sustained in connection with the contest. You acknowledge and agree that Facebook et al is not responsible for technical, hardware or software failures, or other errors or problems which may occur in connection with the contest.',
   'If you have any questions about what is or is not allowed, please ask an organizer.' =>
-    '',
+    'Free Flag : BCTF{Welc0M3_T3N4CI0US_CTF!!}',
   'Have fun!' =>
     'Happy Hacking!',
   'Name' =>
